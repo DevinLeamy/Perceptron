@@ -1,2 +1,4 @@
 learning-neural-networks.iml
 out/
+.DS_Store
+.idea/
